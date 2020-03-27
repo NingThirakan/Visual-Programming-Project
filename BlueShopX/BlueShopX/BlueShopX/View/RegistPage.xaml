@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BlueShopX.View.RegistPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Register Account" HorizontalOptions="Center" Margin="0,70,0,0" TextColor="#000980" HorizontalTextAlignment="Center" FontSize="Large" FontAttributes="Bold" />
+            <Label Text="Username" Margin="30,70,0,0" TextColor="#FF0000" />
+            <Entry x:Name="EntryUsername" Placeholder="Username" Margin="30,0,20,0" TextColor="#000000" />
+            <Label Text="Name" Margin="30,0,0,0" TextColor="#FF0000" />
+            <Entry x:Name="EntryName" Placeholder="Name" Margin="30,0,20,0" TextColor="#000000" />
+            <Label Text="Password" Margin="30,0,0,0" TextColor="#FF0000" />
+            <Entry x:Name="EntryPassword" Placeholder="Password" Margin="30,0,20,0" TextColor="#000000" IsPassword="True" />
+            <Button x:Name="Rbt" Text="Register" Margin="50,20,50,0" BackgroundColor="#FF9191" Clicked="Rbt_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

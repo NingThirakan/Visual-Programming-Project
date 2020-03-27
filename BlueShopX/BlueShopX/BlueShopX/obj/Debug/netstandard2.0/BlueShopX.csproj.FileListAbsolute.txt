@@ -1,0 +1,16 @@
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\bin\Debug\netstandard2.0\BlueShopX.deps.json
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\bin\Debug\netstandard2.0\BlueShopX.dll
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\bin\Debug\netstandard2.0\ref\BlueShopX.dll
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\bin\Debug\netstandard2.0\BlueShopX.pdb
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\BlueShopX.AssemblyInfoInputs.cache
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\BlueShopX.AssemblyInfo.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\BlueShopX.dll
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\ref\BlueShopX.dll
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\BlueShopX.pdb
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\View\RegistPage.xaml.g.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\View\ComfirmOrder.xaml.g.cs
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual Programming\Project\BlueShopX\BlueShopX\BlueShopX\obj\Debug\netstandard2.0\BlueShopX.csprojAssemblyReference.cache

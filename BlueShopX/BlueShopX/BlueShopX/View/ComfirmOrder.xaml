@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BlueShopX.View.ComfirmOrder">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Comfirm Order" HorizontalOptions="Center" Margin="0,50,0,0" TextColor="#000000" HorizontalTextAlignment="Center" FontSize="Large" FontAttributes="Bold" />
+            <Label Text="Please click Confirm Button to confirm " TextColor="#000000" Margin="0,30,0,0" HorizontalTextAlignment="Center" FontSize="Medium" />
+            <Button x:Name="CFbt" Text="Confirm" Margin="50,50,50,0" BackgroundColor="#00E3FF" Clicked="CFbt_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

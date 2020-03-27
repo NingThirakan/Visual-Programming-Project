@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BlueShopX.MainPage">
+    <ScrollView>
+        <StackLayout Margin="0">
+            
+            <Label Text="Blue Shop" HorizontalOptions="Center" Margin="0,30,0,0" TextColor="#000980" HorizontalTextAlignment="Center" FontSize="Large" FontAttributes="Bold" />
+
+            <Image Source="Untitled1.png" WidthRequest="-1" Margin="0,30,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีขาว" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 5,200 บาท" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Image Source="Untitled2.png" WidthRequest="-1" Margin="0,50,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีขาว-ดำ" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 5,200 บาท" HorizontalTextAlignment="Center" TextColor="#000000" HeightRequest="-1" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Image Source="Untitled3.png" WidthRequest="-1" Margin="0,50,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีดำ" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 5,200 บาท" HorizontalTextAlignment="Center" TextColor="#000000" HeightRequest="-1" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Image Source="Untitled7.png" WidthRequest="-1" Margin="0,50,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีแดง" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 4,600 บาท" HorizontalTextAlignment="Center" TextColor="#000000" HeightRequest="-1" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Image Source="Untitled8.png" WidthRequest="-1" Margin="0,50,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีน้ำเงิน" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 4,600 บาท" HorizontalTextAlignment="Center" TextColor="#000000" HeightRequest="-1" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Image Source="Untitled9.png" WidthRequest="-1" Margin="0,50,0,0" HeightRequest="70" />
+            <Label Text="Nike Air Max 90" Margin="0,15,0,0" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="สีดำ" HorizontalTextAlignment="Center" TextColor="#000000" />
+            <Label Text="ราคา 4,600 บาท" HorizontalTextAlignment="Center" TextColor="#000000" HeightRequest="-1" />
+            <Button Text="Buy" TextColor="#000000" BackgroundColor="#0093FF" Padding="0" Margin="150,10,150,0" HeightRequest="30" Clicked="Buy_Clicked" />
+
+            <Button Text="Logout" TextColor="#FFFFFF" BackgroundColor="#000000" Padding="0" Margin="100,20,100,10" HeightRequest="30" Clicked="LogOutBt_Clicked" />
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
